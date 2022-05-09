@@ -9,8 +9,8 @@ Here are some words that describe you:
 `f`aithful
 `a`mazing
 `m`om
-di`l`igent
 eng`i`neer
+di`l`igent
 `y`outhful
 charitab`l`e
 fav`o`rite
@@ -31,3 +31,7 @@ Mom, I love you so much! You have been so nice! I really hope you have a woderfu
 I'm so grateful for all that you have done for me and the love you have shown me! Have a fantastic day!!!
 
 Julia
+
+You're such a wonderful mom! You're always so happy!
+
+-Daniel
